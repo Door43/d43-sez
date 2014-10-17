@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sez:home|Door43 (sez)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sez|d43-sez repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sez/archive/master.zip|d43-sez.zip]]
+
+**Recent Changes**
+{{changes>ns = sez}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sez|Ethnologue data]]
+
